@@ -24,9 +24,9 @@ Guess the Plane is currently in development. New aircraft, features, and improve
 
 ## 🛠️ Built With
 
-- [Add game engine or framework]
-- [Add programming language]
-- [Add other tools or technologies]
+- Add your game engine or framework
+- Add your programming language
+- Add other tools and technologies
 
 ## 📸 Screenshots
 
@@ -43,14 +43,14 @@ _Add screenshots of the game here._
 
 ## 🤝 Contributing
 
-Suggestions, feedback, and contributions are welcome. Feel free to open an issue or submit a pull request.
+Suggestions, feedback, and contributions are welcome. Feel free to email us at velocitygamestudio@outlook.com or submit a pull request.
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 <p align="center">
-  Made with passion for aviation and gaming ✈️🎮
+  Building the future of gaming ⚡🎮
 </p>
